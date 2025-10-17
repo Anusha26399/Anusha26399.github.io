@@ -282,12 +282,32 @@
       overflow: hidden;
       border: 1px solid rgba(255, 255, 255, 0.1);
       transition: all 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      display: block;
+      color: inherit;
     }
 
     .project-card:hover {
       transform: translateY(-10px);
       box-shadow: 0 15px 40px rgba(77, 208, 225, 0.3);
       border-color: #4dd0e1;
+    }
+
+    .project-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      color: #4dd0e1;
+      text-decoration: none;
+      font-weight: 500;
+      margin-top: 1rem;
+      transition: all 0.3s;
+    }
+
+    .project-link:hover {
+      color: #26c6da;
+      gap: 0.8rem;
     }
 
     .project-image {
