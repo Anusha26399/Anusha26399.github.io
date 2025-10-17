@@ -62,16 +62,7 @@ Versatile Software Engineer & Analyst with expertise in **Python, SQL, JS, Angul
 **Agricultural Research Intern** – Krushi Unnat Sahjogi Programme, Odisha *(Sep 2022–Nov 2022)*  
 - Conducted **field surveys** and digitized datasets for data-driven policy recommendations.
 
----
 
-## Certifications & Leadership
-- GenAI for Data Analysts – Udemy (2025)  
-- Advanced Excel, Power BI, Tableau – Pioneer Tech (2023)  
-- SQL Advanced – HackerRank (2025)  
-- Microwave Remote Sensing Data Processing – ISRO-SAC (2023)  
-- Core Team Member – Bureau of Indian Standards Club (2023–2025)
-
----
 
 ## Contact
 📧 Email: [work.anushaparida26@gmail.com](mailto:work.anushaparida26@gmail.com)  
