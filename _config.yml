@@ -1,24 +1,8 @@
-title: "Anusha Parida – Data & Business Analyst"
+title: "Anusha Parida – Analyst & Software Engineer"
 email: "work.anushaparida26@gmail.com"
-description: "Data Analyst | Business Analyst | Software Engineer | AI/ML | BI | GIS"
-baseurl: "" # leave empty for user page
-url: "https://anusha26399.github.io"
-twitter_username: ""
+description: "Portfolio of Anusha Parida – Data Analyst | Business Analyst | Software Engineer"
+baseurl: "" 
+url: "https://Anusha26399.github.io"
+theme: minima
 github_username: "Anusha26399"
 linkedin_username: "anusha-parida-94ab84273"
-theme: jekyll-theme-minimal
-
-# Navigation
-nav:
-  - title: "About"
-    url: "#about"
-  - title: "Skills"
-    url: "#skills"
-  - title: "Projects"
-    url: "#projects"
-  - title: "Experience"
-    url: "#experience"
-  - title: "Certifications"
-    url: "#certifications"
-  - title: "Contact"
-    url: "#contact"
