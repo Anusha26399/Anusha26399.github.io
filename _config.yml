@@ -1,0 +1,91 @@
+# ==========================
+# 🌐 SITE CONFIGURATION
+# ==========================
+theme: jekyll-theme-cayman
+title: "Anusha Parida 🌸"
+description: "AI | Data Science | Geospatial Analytics Enthusiast"
+show_downloads: false
+
+# ==========================
+# 🧭 PERSONAL INFO
+# ==========================
+author:
+  name: "Anusha Parida"
+  email: "anusha26399@gmail.com"
+  linkedin: "https://www.linkedin.com/in/anusha-parida/"
+  github: "https://github.com/Anusha26399"
+  location: "India"
+
+# ==========================
+# 🧠 ABOUT SECTION
+# ==========================
+about: >
+  Hi! I'm **Anusha**, an Agriculture Graduate and Data Analytics Enthusiast passionate about **AI, Geospatial Analysis, and Predictive Modelling**.  
+  I love working with **Python, R, SQL, Power BI, and Machine Learning**, transforming complex datasets into actionable insights.  
+  Currently exploring **AI-powered dashboards**, **SAR-based soil moisture mapping**, and **LLM automation**.
+
+# ==========================
+# 🛠️ SKILLS
+# ==========================
+skills:
+  - name: Programming
+    details: Python, R, SQL, JavaScript, HTML, CSS
+  - name: Machine Learning
+    details: Regression, Decision Trees, Gradient Boosting, Model Validation
+  - name: Geospatial Tools
+    details: Google Earth Engine, QGIS, ArcGIS, Raster Analysis
+  - name: Visualization
+    details: Power BI, Tableau, Matplotlib, Plotly, Streamlit
+  - name: Soft Skills
+    details: Communication, Analytical Thinking, Problem Solving
+
+# ==========================
+# 🚀 PROJECTS
+# ==========================
+projects:
+  - name: "Groq AI Powered MCA Insights Dashboard"
+    description: "Interactive AI-powered Streamlit dashboard integrating Groq API for querying 290K+ company records, offering intelligent summarization, filtering, and trend analytics."
+    link: "https://github.com/Anusha26399/Groq_AI_Powered_MCA_Insights_Dashboard"
+
+  - name: "Travel Voice Assistant using Retell AI"
+    description: "Multi-API integrated conversational assistant automating travel recommendations using Retell AI and natural language understanding."
+    link: "https://github.com/Anusha26399/Travel_Voice_Assistant"
+
+  - name: "Soil Moisture Prediction using SAR & ML"
+    description: "Predicted soil moisture from Sentinel-1 data using Decision Tree & Gradient Boosting models, achieving R² = 0.90 and RMSE = 1.95."
+    link: "https://github.com/Anusha26399/Soil_Moisture_Prediction"
+
+# ==========================
+# 📈 VISUAL DASHBOARD DATA
+# ==========================
+stats:
+  - title: "Projects Completed"
+    value: 12
+  - title: "Technologies Used"
+    value: 18
+  - title: "Datasets Analyzed"
+    value: 50+
+  - title: "AI Models Trained"
+    value: 10
+
+# ==========================
+# 🎨 UI CUSTOMIZATION
+# ==========================
+colors:
+  header-bg: "#009879"
+  accent: "#F39C12"
+  text-color: "#2C3E50"
+  bg-color: "#F7F9FA"
+
+# ==========================
+# 📊 OPTIONAL GRAPH BLOCK (Jekyll-Chart)
+# ==========================
+# If you later use Jekyll plugins, this allows charts like skill-level graphs.
+charts:
+  - title: "Skill Proficiency"
+    data:
+      Python: 95
+      R: 85
+      SQL: 80
+      PowerBI: 90
+      GIS: 88
